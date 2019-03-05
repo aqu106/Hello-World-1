@@ -1,6 +1,8 @@
 # Hello-World
 Editing your repository .
 
+Learning how to use pull request .
+
 This is my first repository ever!
 
 
